@@ -18,7 +18,5 @@ return array(
 		array( 'Toppen kille Dennis !Tveka inte om ni behöver hjälp .Rotavdrag enligt reglerna.Fått hjälp med följande.Akut Hjälp ,installerat Ny köksblandare ,elpannan . Rensa avlopp kök-badrum .Tog bort element för snyggare renovering 😎', 'Lars Nilsson', 'för 2 år sedan' ),
 		array( 'Installerade ett element , hittade även en läcka jag inte visste om . Svarade på sms även på helg / kväll och var oerhört hjälpsam rakt igenom . 5/5', 'Osagi Swe', 'för 4 år sedan' ),
 	),
-	'bild_hero'      => 'foto-1.jpg',
-	'bilder'         => array( 'foto-2.jpg', 'foto-3.jpg', 'foto-4.jpg' ),
 	'ar_riktig'      => true,
 );
