@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Topp-Rör AB',
+	'bransch'        => 'VVS-montör',
 	'telefon'        => '070-333 28 15',
 	'telefon_tel'    => '+46703332815',
 	'ort'            => 'Vargön',
